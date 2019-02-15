@@ -1,0 +1,23 @@
+[
+  {
+    "model":"FipeAPI.TipoVeiculo",
+    "pk": 1,
+    "fields": {
+      "veiculo": "Carro"
+    }
+  },
+  {
+    "model":"FipeAPI.TipoVeiculo",
+    "pk": 2,
+    "fields": {
+      "veiculo": "Moto"
+    }
+  },
+  {
+    "model":"FipeAPI.TipoVeiculo",
+    "pk": 3,
+    "fields": {
+      "veiculo": "Caminhão"
+    }
+  }
+]
